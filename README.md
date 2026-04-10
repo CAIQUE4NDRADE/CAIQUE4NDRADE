@@ -35,7 +35,7 @@ Profissional com mais de 8 anos em operações industriais (Raízen, Atvos) faze
 
 - Lê arquivo gerado pelo TMS e sincroniza com o sistema sem intervenção humana
 - Roda **24h por dia** em loop contínuo
-- Eliminou processo manual diário de ~30 minutos
+- Eliminou processo manual diário de ~ horas
 - **Python · Selenium · WebDriver**
 
 ---
