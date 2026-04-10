@@ -24,7 +24,7 @@ Profissional com mais de 8 anos em operações industriais (Raízen, Atvos) faze
 > Sistema web completo de controle de gate e pátio de terminal de combustíveis
 
 - Desenvolvido do zero com **HTML, CSS, JavaScript + Supabase**
-- Controle de entrada/saída de caminhões, agendamento, monitoramento de tanques
+- Controle de descarga de caminhões, agendamento, monitoramento de tanques
 - Perfis de acesso GATE/OPERADOR e SUPERVISOR
 - Em uso diário — evoluído da v1 até a **v29**
 
