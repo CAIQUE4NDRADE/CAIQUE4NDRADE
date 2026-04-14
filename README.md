@@ -40,7 +40,7 @@ Profissional com mais de 8 anos em operações industriais (Raízen, Atvos) faze
 - Integra **New SAT + Excel + SAP GUI Scripting** sem intervenção humana
 - Baixa o DiaryLoadAutoTank automaticamente via Selenium
 - Keep-alive a cada 5 min para manter SAP e New SAT ativos
-- Eliminou ~10 minutos de processo manual por ciclo de atualização
+- Eliminou ~10 minutos de processo manual por ciclo de atualização, 4 horas diarias.
 - **Python · Selenium · win32com · pywin32 · schedule**
 
 ---
