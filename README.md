@@ -23,7 +23,22 @@ Profissional com mais de 8 anos em operações industriais (Raízen, Atvos) faze
 - Controle de descarga de caminhões, agendamento, monitoramento de tanques
 - Perfis de acesso GATE/OPERADOR e SUPERVISOR
 - Em uso diário — evoluído da v1 até a **v29**
+Sistema de Gestão Operacional
 
+Sistema web desenvolvido para controle de gate e pátio em operação logística real.
+
+🚀 Funcionalidades
+Controle de entrada e saída de veículos
+Monitoramento de tanques
+Histórico com reversão de ações
+Perfis de acesso (operador/supervisor)
+🛠️ Tecnologias
+HTML, CSS, JavaScript
+Supabase (PostgreSQL)
+Integrações externas
+📈 Impacto
+
+Sistema utilizado diariamente em operação real, reduzindo processos manuais e aumentando eficiência.
 ---
 
 ### 🤖 [R.A.I.S — Automação de Placas 24h](https://github.com/CAIQUE4NDRADE/rais-automacao)
