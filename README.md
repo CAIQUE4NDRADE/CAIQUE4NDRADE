@@ -1,8 +1,28 @@
-# Olá, eu sou Caique Andrade 👋
-### 🚛 Logística Operacional → 💻 Tecnologia
-Profissional com mais de 8 anos em operações industriais (Raízen, Atvos) fazendo transição para tecnologia. Desenvolvo sistemas web e automações que já estão em produção no dia a dia de um terminal de combustíveis.
+Caique Andrade
 
----
+🚀 Desenvolvedor Python | Automação | Backend
+
+Desenvolvedor com experiência em sistemas reais em produção e automação de processos.
+
+💼 Experiência prática
+Sistema de gestão operacional em uso diário (logística / combustíveis)
+Automações Python rodando 24h integradas ao SAP
+Redução de processos manuais e aumento de eficiência
+🛠️ Tecnologias
+Python (automação, scripts, integração)
+Selenium
+SQL / Supabase (PostgreSQL)
+JavaScript (frontend)
+VBA / Excel / SAP GUI
+
+📌 Foco atual
+Desenvolvimento backend (APIs)
+Sistemas escaláveis
+Automação de processos
+
+📫 Contato
+Email: kiqand21@gmail.com
+LinkedIn: www.linkedin.com/in/caique-andrade-588971115
 
 ## 🛠️ Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
