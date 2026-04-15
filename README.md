@@ -36,6 +36,7 @@ Perfis de acesso (operador/supervisor)
 HTML, CSS, JavaScript
 Supabase (PostgreSQL)
 Integrações externas
+
 📈 Impacto
 
 Sistema utilizado diariamente em operação real, reduzindo processos manuais e aumentando eficiência.
