@@ -4,6 +4,10 @@
 
 Desenvolvedor com experiência prática em sistemas em produção e automação de processos críticos. Atuo criando soluções que rodam 24h integradas a sistemas corporativos, reduzindo tarefas manuais e aumentando eficiência operacional.
 
+🚀 +3 sistemas em produção rodando 24h
+⚙️ Automação integrada com SAP
+📉 Redução de +4h/dia de trabalho manual
+
 ---
 
 ## 💼 Experiência prática
