@@ -76,7 +76,7 @@ Python · Selenium · WebDriver
 
 ---
 
-### 🌡️ Automação de Temperatura (BPA)
+### 🌡️ Automação, Automatização de atualização de temperatura no SAP, eliminando ~4h/dia de operação manual e reduzindo erro humano em processo crítico.
 
 Sistema automatizado para atualização de temperatura no SAP.
 
