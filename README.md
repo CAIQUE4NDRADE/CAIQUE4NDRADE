@@ -1,131 +1,121 @@
 # Caique Andrade
+🚀 Caique Andrade
+Desenvolvedor Python | Automação de Processos | Backend
 
-🚀 Desenvolvedor Python | Automação | Backend
+Profissional com atuação prática no desenvolvimento de automações e sistemas em produção em ambiente corporativo de grande porte, focado em redução de trabalho manual, aumento de eficiência operacional e integração entre sistemas críticos.
 
-Desenvolvedor com experiência prática em sistemas em produção e automação de processos críticos. Atuo criando soluções que rodam 24h integradas a sistemas corporativos, reduzindo tarefas manuais e aumentando eficiência operacional.
+Experiência criando soluções que operam 24/7, conectando SAP, Excel, sistemas web e e-mail, com foco em confiabilidade, resiliência e impacto direto no negócio.
 
-🚀 +3 sistemas em produção rodando 24h
-⚙️ Automação integrada com SAP
-📉 Redução de +4h/dia de trabalho manual
+📊 Impacto Gerado
+🚀 +3 sistemas em produção contínua (24h)
+⚙️ Automações integradas com SAP em ambiente corporativo
+⏱️ Redução de ~4h/dia de trabalho manual em processo crítico
+📉 Redução de erros operacionais em rotinas repetitivas
+🔁 Padronização de processos antes executados manualmente
+💼 Atuação Profissional
+Desenvolvimento de soluções utilizadas diariamente em operação industrial/logística
+Criação de automações robustas para substituição de tarefas manuais críticas
+Integração entre múltiplos sistemas corporativos (SAP, Excel, Web, Email)
+Evolução contínua de sistemas em produção (versionamento e melhorias incrementais)
+Foco em estabilidade, recuperação de falhas e execução autônoma
+🛠️ Stack Tecnológica
 
----
+Backend & Automação
 
-## 💼 Experiência prática
+Python (automação, integrações, scripts produtivos)
+Selenium (automação web e RPA)
+SQL / PostgreSQL (Supabase)
 
-* Sistema de gestão operacional em uso diário (logística / combustíveis) na Raízen
-* Automações em Python rodando 24h integradas ao SAP
-* Redução significativa de processos manuais e erros operacionais
+Integrações Corporativas
 
----
+SAP GUI Scripting
+Excel VBA / win32com
+Outlook (automação de e-mails)
 
-## 🛠️ Tecnologias
+Frontend
 
-* Python (automação, scripts, integrações)
-* Selenium / Web Automation
-* SQL / Supabase (PostgreSQL)
-* JavaScript (frontend integrado)
-* VBA / Excel / SAP GUI Scripting
+JavaScript · HTML · CSS
+🚀 Projetos em Produção
+🌐 Sistema de Gestão Operacional — Ambiente Industrial
 
----
+Sistema web para controle de gate e pátio em terminal de combustíveis.
 
-## 📌 Foco atual
+Responsabilidades:
 
-* Desenvolvimento Backend (APIs)
-* Sistemas escaláveis
-* Automação de processos
+Arquitetura e evolução do sistema (v1 → v29)
+Desenvolvimento de funcionalidades críticas de operação
+Integração com banco de dados e controle de acesso
 
----
+Funcionalidades:
 
-## 🚀 Projetos em Produção
+Controle de entrada/saída de veículos
+Monitoramento operacional
+Agendamento e gestão de fluxo
+Histórico com reversão de ações
+Perfis de acesso (Operador / Supervisor)
 
-### 🌐 RAÍZEN — Sistema de Gestão Operacional
+Tecnologias: JavaScript · HTML · CSS · PostgreSQL (Supabase)
 
-Sistema web completo para controle de gate e pátio em terminal de combustíveis.
+Impacto:
+Sistema utilizado diariamente na operação, reduzindo dependência de controles manuais e aumentando rastreabilidade.
 
-**Principais funcionalidades:**
+🤖 Automação de Cadastro de Veículos (RPA)
 
-* Controle de entrada e saída de veículos
-* Monitoramento de tanques em tempo real
-* Agendamento e controle operacional
-* Histórico com reversão de ações
-* Perfis de acesso (Operador / Supervisor)
+Automação responsável por eliminar processo manual de cadastro via sistema web.
 
-**Tecnologias:**
-HTML · CSS · JavaScript · Supabase (PostgreSQL)
+Funcionalidades:
 
-**Impacto:**
-Sistema em uso diário na operação, evoluído da versão v1 até v29, reduzindo processos manuais e aumentando eficiência operacional.
+Leitura automática de arquivos do TMS
+Execução de cadastro via Selenium
+Operação contínua sem intervenção humana
 
----
+Tecnologias: Python · Selenium
 
-### 🤖 R.A.I.S — Automação de Placas 24h
+Impacto:
+Substituição completa de atividade manual repetitiva, com redução de erros e ganho de produtividade.
 
-Automação em Python responsável por cadastro automático de veículos.
+🌡️ Automação de Temperatura — Integração SAP
 
-**Funcionalidades:**
+Automação de processo crítico executado anteriormente de forma manual em ciclos operacionais.
 
-* Leitura automática de arquivos gerados pelo TMS
-* Cadastro de placas via Selenium sem intervenção humana
-* Execução contínua 24h/dia
+Funcionalidades:
 
-**Impacto:**
-Eliminação de processo manual repetitivo, reduzindo erros operacionais.
+Atualização automática a cada 30 minutos
+Integração com SAP, Excel, e sistemas web
+Mecanismos de keep-alive e reconexão
+Tratamento de falhas e execução resiliente
 
-**Tecnologias:**
-Python · Selenium · WebDriver
+Tecnologias: Python · Selenium · win32com · schedule
 
----
+Impacto:
+Redução de ~4 horas diárias de trabalho manual e aumento da confiabilidade em processo sensível.
 
-### 🌡️ Automação, Automatização de atualização de temperatura no SAP, eliminando ~4h/dia de operação manual e reduzindo erro humano em processo crítico.
+⚙️ Suite de Automações SAP (Excel + VBA)
 
-Sistema automatizado para atualização de temperatura no SAP.
+Automação de rotinas administrativas e operacionais dentro do SAP.
 
-**Funcionalidades:**
+Funcionalidades:
 
-* Atualização automática a cada 30 minutos
-* Integração com Excel, SAP GUI e sistemas externos
-* Keep-alive para manter sistemas ativos
+Processamento em lote
+Cadastro automatizado
+Consultas e atualizações diretas via Excel
 
-**Impacto:**
-Redução de ~4 horas diárias de trabalho manual.
+Tecnologias: VBA · Excel · SAP GUI Scripting
 
-**Tecnologias:**
-Python · Selenium · win32com · pywin32 · schedule
+Impacto:
+Aumento de produtividade e padronização de tarefas antes dependentes de execução manual.
 
----
-
-### ⚙️ Suite de Automações SAP (Excel + VBA)
-
-Conjunto de automações para processos administrativos no SAP.
-
-**Funcionalidades:**
-
-* Atualização em lote de transportes
-* Cadastro automático de motoristas
-* Consulta direta ao SAP via Excel
-* Atualização de checklists
-
-**Impacto:**
-Execução de tarefas SAP sem navegação manual, aumentando produtividade da equipe.
-
-**Tecnologias:**
-VBA · Excel · SAP GUI Scripting
-
----
-
-## 📫 Contato
-
-* Email: [kiqand21@gmail.com](mailto:kiqand21@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/caique-andrade-588971115
-
----
-
-## 📌 Sobre mim
+🎯 Foco Atual
+Desenvolvimento Backend (APIs e integrações)
+Arquitetura de sistemas escaláveis
+Automação de processos corporativos em larga escala
+📫 Contato
+📧 Email: kiqand21@gmail.com
+💼 LinkedIn: linkedin.com/in/caique-andrade-588971115
+👤 Sobre mim
 
 🏢 Assistente de Operações — Raízen
 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)
-📍 Sumaré, SP
+📍 Sumaré — SP
 
----
-
-💡 *"Automatizo o que pode ser automatizado para focar no que realmente importa."*
+💡 "Transformo processos manuais em sistemas autônomos e escaláveis."
