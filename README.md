@@ -60,11 +60,14 @@ Conecto **SAP, Excel, sistemas web, e-mail e hardware de portaria** para elimina
 ## ⭐ Destaques
 
 ### 🚧 Autoatendimento de Portaria (Cancela + Totem) · [`rais-automacao`](https://github.com/CAIQUE4NDRADE/rais-automacao)
-Sistema multiárea de entrada e saída de caminhões: totem quiosque, sincronização de placas com o sistema de gestão, integração com reconhecimento facial (pywinauto → cache SQLite), controle anti-dupla abertura, cursor de eventos para impedir autorização com evento antigo e watchdog para o quiosque nunca perder a tela.
-**Em desenvolvimento:** leitura automática de placa por câmera (ALPR/OCR).
-> **94,6%** das passagens automáticas (análise de 2.918 eventos) · **~85%** menos tempo de gate
+O caminhão chega, o motorista se identifica no totem e a cancela abre sozinha, sem precisar de um operador na portaria.
 
-`Python` `Selenium` `Tkinter` `pywinauto` `SQLite` `OCR`
+> **94,6%** das passagens sem intervenção humana (análise de 2.918 eventos) · **~85%** menos tempo no gate
+
+**Leitura automática de placa (ALPR):** câmera + OCR leem a placa do cavalo, o sistema busca a carreta vinculada e confere o status no sistema de gestão, sem o motorista digitar nada.
+**Como funciona:** totem quiosque multiárea integrado ao reconhecimento facial e ao sistema de gestão de placas, com proteções para a cancela nunca abrir duas vezes nem autorizar com um evento antigo, e um watchdog que mantém o quiosque sempre na tela.
+
+`Python` `Selenium` `Tkinter` `pywinauto` `SQLite` `OCR` `Visão computacional`
 
 ### 🌡️ Automação de Temperatura · [`automacao-temperatura-bpa`](https://github.com/CAIQUE4NDRADE/automacao-temperatura-bpa)
 Ciclo a cada 30 min que coleta dados do sistema web, preenche planilha, roda macros e atualiza temperatura e densidade no SAP. Deploy multiusuário, keep-alive, reconexão automática, notificações escalonadas e log centralizado.
@@ -146,7 +149,7 @@ Substitui a folha de papel: o colaborador lança a HE (35% / 80% / noturna / 100
 
 ## 🎯 Foco atual
 
-- 🚘 **Leitura automática de placas (ALPR)**: integrando câmera + OCR ao totem de portaria para eliminar a digitação da placa pelo motorista
+- 🚘 **Visão computacional aplicada**: leitura automática de placas (ALPR) por câmera + OCR, já rodando no totem de portaria
 - 🔗 **Integração SAP ↔ sistemas web**: levando dados de processos que hoje dependem de planilha e macro para bancos PostgreSQL/Supabase
 - 🌐 **Sistemas web com Supabase**: apps internos e para clientes (agendamento, gestão de pátio, delivery) com autenticação, perfis e banco em tempo real
 - 🎓 **Cursando ADS**: aprofundando em arquitetura de software, banco de dados e boas práticas de backend
