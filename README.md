@@ -39,7 +39,7 @@ Profissional de operações com 8+ anos em ambiente industrial/logístico que se
 
 ### 💰 Robô de Pedido de Laudo — [`robo-pedido-laudo`](https://github.com/CAIQUE4NDRADE/robo-pedido-laudo)
 Lê e-mails de "virada de tanque", identifica o tanque que virou e o tanque que está expedindo (via planilha de passagem de turno no SharePoint) e envia automaticamente ao laboratório o pedido de laudo **somente dos tanques necessários**, aplicando regras de composição de produto.
-**Impacto:** antes o laboratório emitia laudo de todos os tanques sem solicitação → **economia de ~R$ 20 mil/mês**.
+**Impacto:** antes o laboratório emitia laudo de todos os tanques sem solicitação → **economia de ~R$ ## mil/mês**.
 `Python` `Selenium` `E-mail` `SharePoint`
 
 ### 🌡️ Automação de Temperatura — [`automacao-temperatura-bpa`](https://github.com/CAIQUE4NDRADE/automacao-temperatura-bpa)
@@ -92,7 +92,7 @@ Controle de descarga de caminhões: entrada/saída, agendamento, chamada do moto
 
 ### Agendamento de Checklist + Curso Operação Sem Derrame — [`checklist-e-opsemderrame`](https://github.com/CAIQUE4NDRADE/checklist-e-opsemderrame)
 Motorista agenda pelo celular via **QR code** o checklist do caminhão e o curso semanal de segurança.
-**Impacto:** **economia de ~R$ 550/mês**.
+**Impacto:** **economia de ~R$ ###/mês**.
 `JavaScript` `Supabase` `GitHub Pages`
 
 ### Lançamento de Horas Extras — [`horas-extras-bpa`](https://github.com/CAIQUE4NDRADE/horas-extras-bpa)
