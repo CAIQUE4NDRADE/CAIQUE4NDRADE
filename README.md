@@ -16,12 +16,12 @@ Profissional de operações com 8+ anos em ambiente industrial/logístico que se
 
 | Resultado | Projeto |
 |---|---|
-| 💰 **~R$ 20 mil/mês** de economia em laudos de laboratório | Robô Pedido de Laudo |
+| 💰 **~R$ ## mil/mês** de economia em laudos de laboratório | Robô Pedido de Laudo |
 | ⏱️ **~6 h/dia** de trabalho administrativo eliminado | Automação de Temperatura |
 | ⏱️ **~2 h/dia** de trabalho de supervisão eliminado | Impressão de Documentação de Trem |
 | 🚧 **94,6%** das passagens pela cancela feitas sem intervenção humana · **~85%** menos tempo no gate | Autoatendimento de Portaria |
 | 📄 **~180 notas fiscais/dia** lidas por OCR e lançadas no SAP | Escrituração RPA |
-| 💰 **~R$ 550/mês** de economia | Agendamento de Checklist + Curso Operação Sem Derrame |
+| 💰 **~R$ ###/mês** de economia | Agendamento de Checklist + Curso Operação Sem Derrame |
 | 🔁 **+15 automações e sistemas** em uso diário na operação | — |
 
 ---
